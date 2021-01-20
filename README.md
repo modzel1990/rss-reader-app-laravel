@@ -24,3 +24,11 @@ Once you register and login you will land on a /home page with Dashboard. On das
 <p>If you need to get back to the Dashboard (/home) you will find Home button on top right corner.</p>
 
 <p>I've used simple bootstrap for layout and buttons, there is no doubt this could be done smarter and more user friendly, but due to lack of time I focused mainly on its functionality.</p>
+
+<p>Please find few RSS url's that I have used during testing:</p>
+<ul>
+<li>https://thewest.com.au/sport/rss</li>
+<li>https://justinpot.com/feed/</li>
+<li>https://news.yahoo.com/rss/</li>
+<li>https://thewest.com.au/rss-feeds</li>
+</ul>
