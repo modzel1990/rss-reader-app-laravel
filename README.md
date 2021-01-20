@@ -1,15 +1,15 @@
 <h3>Instructions</h3>
 <p>Once you clone the app please make sure to set up database in .env file. If you do not have .env file there should be .env.example which can be used as a template.</p>
 <ul>
-<li>DB_CONNECTION=mysql<li>
-<li>DB_HOST=127.0.0.1<li>
-<li>DB_PORT=3306<li>
-<li>DB_DATABASE={your_db_name}<li>
-<li>DB_USERNAME={your_root_name}<li>
-<li>DB_PASSWORD={your_password}<li>
+<li>DB_CONNECTION=mysql</li>
+<li>DB_HOST=127.0.0.1</li>
+<li>DB_PORT=3306</li>
+<li>DB_DATABASE={your_db_name}</li>
+<li>DB_USERNAME={your_root_name}</li>
+<li>DB_PASSWORD={your_password}</li>
 </ul>
-<p>When you provide credentials to your db, you will need to run 'php artisan migrate' command in order to build necessary tables within your db</p>
-<p>Furthermore, you can run server with 'php artisan serve' and in separate terminal you might need to run 'npm install' and 'npm run dev'.</p>
+<p>When you provide credentials to your db, you will need to run <strong>'php artisan migrate'</strong> command in order to build necessary tables within your db</p>
+<p>Furthermore, you can run server with <strong>'php artisan serve'</strong> and in separate terminal you might need to run <strong>'npm install'</strong> and <strong>'npm run dev'</strong>.</p>
 
 <h4>The App</h4>
 <p>The app is quite simple to use. You will land on main page where in right top corner you will see Login and Register buttons. No need to explain what they do.<br>
